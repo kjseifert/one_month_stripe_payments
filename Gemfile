@@ -34,7 +34,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'bootstrap-sass'
 gem 'stripe', :git => 'https://github.com/stripe/stripe-ruby'
 # Add stripe for payment processing
-gem "figaro"
+gem 'figaro'
 gem 'letter_opener', group: :development
 
 # Use ActiveModel has_secure_password
