@@ -8,6 +8,7 @@ class CreateProducts < ActiveRecord::Migration
      t.string :sku
      t.decimal :price
      t.timestamps
+     
    end
  end
 end
